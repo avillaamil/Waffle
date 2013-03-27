@@ -1,4 +1,4 @@
-#Waffle | ITP Thesis 2013
+#Waffle // ITP Thesis 2013
 
 ####An artistic representation of online news articles as living organisms.
 
